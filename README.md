@@ -1,4 +1,2 @@
-# Group 2 - Final Project
-Cameron Daize - 100697095
-
-Sehaj Behl - 100748987
+Content-Based Image Retrieval (CBIR) Using Barcode
+By Sehaj Behl
